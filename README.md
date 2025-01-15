@@ -9,5 +9,5 @@ This is a Python script that evaluates the strength of a password based on:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/password-strength-checker.git
+   git clone https://github.com/Cyber-Netic/password-strength-checker.git
    cd password-strength-checker
